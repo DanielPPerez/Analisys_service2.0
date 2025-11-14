@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Core de Machine Learning
+tensorflow==2.10.0
+tensorflow-directml-plugin
+numpy==1.26.4
+protobuf==3.19.6
+scikit-learn
+opencv-python-headless
+
+# Interfaz y utilidades
+streamlit
+matplotlib
+Pillow
+tqdm
+
+# Adaptador de LLM 
+openai

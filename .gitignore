@@ -11,6 +11,6 @@ ml_models/
 dataset/
 
 # Entorno virtual de Python
-venv/
+venv_tf/
 __pycache__/
 *.pyc
